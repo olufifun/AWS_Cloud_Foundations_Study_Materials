@@ -75,7 +75,7 @@ These are the nine key decisions to make when you create an EC2 instance by usin
 8. Security group
 9. Key pair
 
-
+Breakdown
 
 1. Select Amazon Machine Image (AMI)
    - Is a template that is used to create an EC2 instance (a virtual machine)
