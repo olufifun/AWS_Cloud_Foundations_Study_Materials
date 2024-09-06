@@ -65,6 +65,16 @@ The optimal compute service or services that you use will depend on your use cas
 
 These are the nine key decisions to make when you create an EC2 instance by using the AWS Management Console Launch Instance Wizard.
 
+1. AMI
+2. Instance Type
+3. Network settings
+4. IAM role
+5. User data
+6. Storage options
+7. Tags
+8. Security group
+9. Key pair
+
 1. Select Amazon Machine Image (AMI)
    - Is a template that is used to create an EC2 instance (a virtual machine)
    - Contains a Windows or Linux operating system and often has some software pre-installed
